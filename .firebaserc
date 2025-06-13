@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "testing": "testingtictactoe-b80b0",
+    "staging": "stagingtictactoe-d9c08"
+  }
+}
